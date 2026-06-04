@@ -1,0 +1,27 @@
+NOTA MODIFICHE - foggiApp
+
+Modifiche effettuate:
+1. Inserita nella pagina Business Plan una nuova sezione "Brand Identity" in fondo alla sezione dei contenuti, prima della CTA finale.
+2. Aggiunta galleria/carousel responsive con frecce avanti/indietro e indicatori.
+3. Aggiunta apertura delle immagini in grande tramite lightbox/modal, con chiusura tramite X, click sullo sfondo o tasto ESC.
+4. Inserito il pulsante rosso con testo esatto: "Scarica la Brand Identity".
+5. Collegato il pulsante al PDF della Brand Identity tramite percorso relativo:
+   buissness_plain/assets/brand-identity/brand-identity-foggiapp.pdf
+6. Inserite tutte le immagini della galleria nella cartella:
+   buissness_plain/assets/brand-identity/
+7. Il PDF è stato ottimizzato per ridurre il peso dello ZIP e facilitare download/caricamento, mantenendo le pagine e la resa visiva.
+8. Rimossi dal pacchetto leggero solo alcuni file pesanti duplicati/non richiamati dagli HTML, senza alterare layout o funzionalità esistenti.
+
+Come visualizzare la webapp:
+- Aprire il file:
+  pagina home/index.html
+  oppure
+  index.html
+
+Per verificare la sezione modificata:
+- Aprire:
+  buissness_plain/index.html
+- Scorrere in fondo fino alla sezione "Brand Identity".
+- Usare le frecce del carousel.
+- Cliccare su un'immagine per aprirla in grande.
+- Usare il pulsante "Scarica la Brand Identity" per scaricare il PDF.
